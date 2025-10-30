@@ -1,0 +1,8 @@
+bin
+vendor
+*.log
+*.tmp
+*.cache
+**/.git
+**/.venv
+node_modules
